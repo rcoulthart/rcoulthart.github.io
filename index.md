@@ -11,7 +11,10 @@ Ross is modelling lead on this project aiming to transform the accessibility of 
 
 ---
 ### Covid-19 Wellbeing Tracker
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wellbeing tracker.png?raw=true"/>
+<img src="images/wellbeing tracker 2.png?raw=true"/>
+
+During the Covid-19 Pandemic I developed voluntary, anonymous wellbeing trackers for teams to help monitor mental health and wellbeing trends during lockdowns and other restrictions. I designed questionnaire surveys and an automated system to issue, process and provide dashboard visualisations using Power Automate and PowerBI. Employees could also request support from Line Managers, Mental Health First Aiders, Wellbeing Champions, or the Employee Assistance Programme through the system.
 
 ---
 [Project 3 Title](http://example.com/)
