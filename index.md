@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Ayr Town Centre Accessibility](/sample_page)
 
 <img src="images/AA kepler.png?raw=true"/>
