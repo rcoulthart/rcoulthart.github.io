@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-
 ### Ayr Town Centre Accessibility
 
 <img src="images/AA kepler.png?raw=true"/>
@@ -17,8 +16,9 @@ Ross is modelling lead on this project aiming to transform the accessibility of 
 During the Covid-19 Pandemic I developed voluntary, anonymous wellbeing trackers for teams to help monitor mental health and wellbeing trends during lockdowns and other restrictions. I designed questionnaire surveys and an automated system to issue, process and provide dashboard visualisations using Power Automate and PowerBI. Employees could also request support from Line Managers, Mental Health First Aiders, Wellbeing Champions, or the Employee Assistance Programme through the system.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### A96 Dualling
+I am modelling lead for traffic and economic assessment of the western section of proposed A96 Dualling Inverness to Aberdeen. I am responsible for methodology, development of scheme scenario tests using a transport model, economic analysis, provision of outputs for other project team disciplines including environment and design and quality assurance through peer review. I developed scripting and pipelines to efficiently deliver model outputs and visualisations for a large number of scenario tests. This was used to appraise the scheme against objectives and undertake cost-benefit analysis.
+
 
 ---
 
@@ -36,5 +36,4 @@ During the Covid-19 Pandemic I developed voluntary, anonymous wellbeing trackers
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
