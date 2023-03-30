@@ -2,7 +2,7 @@
 
 ---
 
-[Ayr Town Centre Accessibility](/sample_page)
+Ayr Town Centre Accessibility
 
 <img src="images/AA kepler.png?raw=true"/>
 <img src="images/QGIS plots.png?raw=true"/>
