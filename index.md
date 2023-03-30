@@ -17,6 +17,7 @@ During the Covid-19 Pandemic I developed voluntary, anonymous wellbeing trackers
 
 ---
 ### A96 Dualling
+<img src="images/TUBA.png?raw=true"/>
 I am modelling lead for traffic and economic assessment of the western section of proposed A96 Dualling Inverness to Aberdeen. I am responsible for methodology, development of scheme scenario tests using a transport model, economic analysis, provision of outputs for other project team disciplines including environment and design and quality assurance through peer review. I developed scripting and pipelines to efficiently deliver model outputs and visualisations for a large number of scenario tests. This was used to appraise the scheme against objectives and undertake cost-benefit analysis.
 
 
