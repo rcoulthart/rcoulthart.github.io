@@ -20,21 +20,10 @@ During the Covid-19 Pandemic I developed voluntary, anonymous wellbeing trackers
 <img src="images/TUBA.png?raw=true"/>
 I am modelling lead for traffic and economic assessment of the western section of proposed A96 Dualling Inverness to Aberdeen. I am responsible for methodology, development of scheme scenario tests using a transport model, economic analysis, provision of outputs for other project team disciplines including environment and design and quality assurance through peer review. I developed scripting and pipelines to efficiently deliver model outputs and visualisations for a large number of scenario tests. This was used to appraise the scheme against objectives and undertake cost-benefit analysis.
 
-
 ---
+### Electric Vehicle Charging Strategy
+<img src="images/ev1.png?raw=true"/>
+<img src="images/ev2.png?raw=true"/>
+I was project manager on this commission to advise South Lanarkshire Council on approaches to electrification, charging infrastructure investment and fleet management. The study included detailed analysis of fleet telematics data, a review of SLC’s vehicle replacement programme, GIS analysis of vehicle parking locations using telematics, assessment of home-based, depot-based and strategic hub charging options, a review of associated costs for charging infrastructure, and a review of potential funding sources. Data was analysed using Python, Jupyter Notebooks and the Seaborn visualisation library. Recommendations were made for reducing mileage, encouraging behaviour change, downsizing fleet, managing charging infrastructure, progressing the rollout of infrastructure and monitoring objectives.
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
 
