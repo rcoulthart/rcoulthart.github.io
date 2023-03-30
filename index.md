@@ -36,4 +36,10 @@ I was project manager on this commission to advise South Lanarkshire Council on 
 
 I led development of a model for assessing operation and capacity of proposed site layouts for a mass vaccination centre. I worked closely with NHS Lothian, QMU, architects and contractors to feedback insights from the modelling and test proposals. Recommendations included changes to the facility layout, increasing the number of entrance arrival lanes, advice on the number of operatives required, signing strategy and providing additional checking stations for patient registration.
 
+---
+### Trip Routing and Distribution (TRAD) Software 
+<img src="images/TRAD1.png?raw=true"/>
+<img src="images/TRAD2.png?raw=true"/>
+<img src="images/TRAD3.png?raw=true"/>
 
+A software project written in Python to predict routing and distribution of vehicle trips for proposed planning applications. It leverages the RESTful API of the Open-Source Routing Machine which is a C++ implementation of a high-performance routing engine for shortest paths in road networks based on OpenStreetMap. A local osrm server instance was set up to make HTTP requests for JSON responses. I developed the TRAD tool to efficiently process the cumulative transport impact of multiple developments. Routes and distributions for tens of thousands of origin-destination pairs can be processed efficiently and output in GIS-compatible aggregated formats for various stakeholders.
